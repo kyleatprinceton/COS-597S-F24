@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: COS 597S: Advanced Topics in Computer Science-Recent Advances in Wireless Networks
+title: COS 597S Advanced Topics in Computer Science- Recent Advances in Wireless Networks
 email: kyle.jamieson@princeton.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This graduate seminar will explore selected topics in wireless networks drawn from the 
